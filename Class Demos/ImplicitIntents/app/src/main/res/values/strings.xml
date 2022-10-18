@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="edittext_uri">https:www.gannon.edu</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">Gannon University</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edittext_share">Mobile Security Lab is so much fun.</string>
+    <string name="button_share">Share This Text</string>
+</resources>
